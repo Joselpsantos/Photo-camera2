@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Photo Camera 2</string>
+    <string name="wite_photos_to_disk">Wite photos to \'disk\'...</string>
+    <string name="write_photos_to_disk" />
 </resources>
